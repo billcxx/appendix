@@ -65,44 +65,44 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "1_Page_1.png"
-			thumb = "1_Page_1.png"
+			image = "A_new.png"
+			thumb = "A_new.png"
 			title = "Appendix A"
 			description = "U.S. College Football"
 
 		[[params.portfolio.gallery]]
-			image = "1_Page_2.png"
-			thumb = "1_Page_2.png"
+			image = "B_new.png"
+			thumb = "B_new.png"
 			title = "Appendix B"
 			description = "Missouri's defection form the Big 12 Conference"
 
 		[[params.portfolio.gallery]]
-			image = "1_Page_3.png"
-			thumb = "1_Page_3.png"
+			image = "C_new.png"
+			thumb = "C_new.png"
 			title = "Appendix C"
 			description = "Probit Model of Schools' Defection from Conferences"
 
 		[[params.portfolio.gallery]]
-			image = "1_Page_4.png"
-			thumb = "1_Page_4.png"
+			image = "D_new.png"
+			thumb = "D_new.png"
 			title = "Appendix D"
 			description = "Selection Corrected Cox Models of Scheduling the First Game with Stayers in the Aftermath of Defection"
 
 		[[params.portfolio.gallery]]
-			image = "1_Page_5.png"
-			thumb = "1_Page_5.png"
+			image = "D1_new.png"
+			thumb = "D1_new.png"
 			title = "Appendix D"
 			description = "Continued"
 
 		[[params.portfolio.gallery]]
-			image = "1_Page_6.png"
-			thumb = "1_Page_6.png"
+			image = "E_new.png"
+			thumb = "E_new.png"
 			title = "Appendix E"
 			description = "The Moderating Effect of 2004 Change"
 
 		[[params.portfolio.gallery]]
-			image = "1_Page_7.png"
-			thumb = "1_Page_7.png"
+			image = "F_new.png"
+			thumb = "F_new.png"
 			title = "Appendix F"
 			description = "Cox Models of the Scheduling between Defections and Nonconference Partners"
 
